@@ -36,7 +36,7 @@ Sou entusiasta de tecnologia, apaixonado por desenvolvimento web e aprendizado c
 ## Como me encontrar
 
 - 🌐 [Portfólio em breve!]
-- 💼 [LinkedIn](www.linkedin.com/in/lucasdoeni)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucasdoeni/)
 - 📧 nascimento.n.lucas@gmail.com
 
 ---
