@@ -1,8 +1,6 @@
 # Olá! Eu sou o Lucas!
 
-<img src="https://avatars.githubusercontent.com/u/159385323?v=4" width="120" style="border-radius: 50%;" alt="Foto de perfil de Lucas Doeni" />
-
-Sou entusiasta de tecnologia, apaixonado por desenvolvimento web e aprendizado contínuo. Tenho experiência com suporte técnico e sistemas de PDV, e atualmente estou mergulhando no mundo da programação com foco em **Front-End**.
+Sou entusiasta de tecnologia, apaixonado por desenvolvimento web e aprendizado contínuo. Tenho experiência com suporte técnico e sistemas de PDV, e atualmente estou mergulhando no mundo da programação.
 
 ---
 
