@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou o Lucas Doeni
+# Olá! Eu sou o Lucas!
 
 Sou entusiasta de tecnologia, apaixonado por desenvolvimento web e aprendizado contínuo. Tenho experiência com suporte técnico e sistemas de PDV, e atualmente estou mergulhando no mundo da programação com foco em **Front-End**.
 
 ---
 
-## 🚀 Tecnologias que uso e estudo
+## Tecnologias que uso e estudo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
@@ -16,7 +16,7 @@ Sou entusiasta de tecnologia, apaixonado por desenvolvimento web e aprendizado c
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 - 🔗 [**Link de Mídias Sociais**](https://github.com/lucasdoeni/Link-Midias-Sociais)  
   Uma página para reunir links de redes sociais com layout responsivo.
@@ -32,18 +32,12 @@ Sou entusiasta de tecnologia, apaixonado por desenvolvimento web e aprendizado c
 
 ---
 
-## 📈 GitHub Stats
 
-![Lucas Doeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdoeni&show_icons=true&theme=radical)
-
----
-
-## 📫 Como me encontrar
+## Como me encontrar
 
 - 🌐 [Portfólio em breve!]
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)
-- 📧 lucas.seuemail@email.com
+- 📧 nascimento.n.lucas@gmail.com
 
 ---
 
-Feito com 💙 por **Lucas Doeni**
