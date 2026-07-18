@@ -14,17 +14,15 @@ Sou entusiasta de tecnologia!
 
 ## Projetos em destaque
 
-- 🔗 [**Landing Page - EnglishPro**](https://lucasdoeni.github.io/Projeto-LandinPage01/)  
+-  [**Landing Page - EnglishPro**](https://lucasdoeni.github.io/Projeto-LandinPage01/)  
   Landing page inspirada na plataforma Kultivi. O projeto conta com layout moderno, flexbox, gradientes, efeitos de hover, cards interativos e estilização.
 
 -  [**Portfólio Profissional**](https://lucasdoeni.github.io/projeto-matheusladislau/)  
   Projeto inspirado em um portfólio moderno. Conta com layout responsivo, componentes reutilizáveis, efeitos visuais e estrutura semântica.
 
--  [**QR Code Responsivo**](https://github.com/lucasdoeni/QR-Code-Responsivo)  
-  Projeto com layout responsivo e centralizado, focado em HTML e CSS.
+-  [**Landing Page - Nubank**](https://lucasdoeni.github.io/projeto-nubank/#)  
+  Reprodução da interface do Nubank. O projeto aplica layout responsivo, flexbox e organização semântica.
 
--  [**Lista de Tarefas**](https://github.com/lucasdoeni/Lista-de-Tarefas)  
-  App simples com JavaScript para gerenciar tarefas.
 
 ---
 
