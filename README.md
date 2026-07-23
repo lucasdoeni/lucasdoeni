@@ -1,6 +1,6 @@
-# Olá! Eu sou o Lucas!
+# Hi! I'm Lucas!
 
-Sou entusiasta de tecnologia! 
+Technology Student! 
 
 ---
 
